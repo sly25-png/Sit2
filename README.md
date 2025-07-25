@@ -8,7 +8,7 @@
 </head>
 <body>
   <header>
-    <h1>🤖 JC Bot — Serviteur Digital de Jésus</h1>
+    <h1>🤖 JC Bot — Serviteur Digital pour la gloire Jésus</h1>
     <p>✨ Développé avec foi par Ͳ•Sly♱✨</p>
     <a href="commands.html" class="btn">📜 Voir les Commandes</a>
     <a href="https://discord.gg/WtYRztrTpP" class="btn">📌 Rejoins notre Discord</a>
