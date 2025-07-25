@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>JC Bot ✝️</title>
+  LumiBot Bot ✝️
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
   <header>
     <h1>🤖 JC Bot — Serviteur Digital de Jésus</h1>
-    <p>✨ Développé avec foi par Stanley ✨</p>
+    <p>✨ Développé avec foi par Ͳ•Sly♱✨</p>
     <a href="commands.html" class="btn">📜 Voir les Commandes</a>
     <a href="https://discord.gg/WtYRztrTpP" class="btn">📌 Rejoins notre Discord</a>
   </header>
